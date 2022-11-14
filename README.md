@@ -25,12 +25,3 @@ Tujuan projek ini adalah untuk membangun sebuah agen kecerdasan buatan yang dapa
 * Install XNA Game Studio 4.0.vsix
 * [Download XNA For Visual Studio 2015 Here](https://mxa.codeplex.com/releases/view/618279)
 
-
-### Who do I talk to? ###
-
-[rhbayuprabowo](https://github.com/rhbayuprabowo)
-
-<!--
-### All credit to ###
-[Corné van Moorsel](http://www.cwali.nl/summy/summy.htm)
--->
